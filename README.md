@@ -11,6 +11,7 @@
   - Practice Page : http://pp1.snucse.org:8888
 
   - Practice Archive Page : http://pp2.snucse.org:8888
+    - 제출기한이 지난 과제를 채점해볼 수 있습니다
 
 
 

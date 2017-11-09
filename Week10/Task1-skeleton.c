@@ -39,8 +39,8 @@ case ‘-’: f = minus; break;
 case ‘*’: f = mult; break;
     }
 
-newCom1 = createComplexNum(r1[0], i1[1]);
-    newCom2 = createComplexNum(r2[0], i2[1]); 
+newCom1 = createComplexNum(r1, i1);
+    newCom2 = createComplexNum(r2, i2); 
     calc(newCom1, newCom2, &r3, &i3, f);
     printf(“%d %d\n”, r3, i3);
     return 0;

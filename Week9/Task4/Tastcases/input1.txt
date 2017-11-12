@@ -1,0 +1,7 @@
+add 1 into A
+add 2 into B
+print A
+print B
+union
+print A
+quit

@@ -1,0 +1,59 @@
+add 0 into A
+add 1 into A
+add 2 into A
+add 3 into A
+add 4 into A
+add 5 into A
+add 6 into A
+add 7 into A
+add 8 into A
+add 9 into A
+add 10 into A
+add 11 into A
+add 12 into A
+add 13 into A
+add 14 into A
+add 15 into A
+add 16 into A
+add 17 into A
+add 18 into A
+add 19 into A
+add 20 into A
+add 21 into A
+add 22 into A
+add 23 into A
+add 24 into A
+add 25 into A
+add 26 into A
+add 27 into A
+add 28 into A
+add 29 into A
+add 30 into A
+add 31 into A
+add 0 into B
+add 2 into B
+add 4 into B
+add 6 into B
+add 8 into B
+add 10 into B
+add 12 into B
+add 14 into B
+add 16 into B
+add 18 into B
+add 20 into B
+add 22 into B
+add 24 into B
+add 26 into B
+add 28 into B
+add 30 into B
+print A
+print B
+setminus
+print A
+union
+print A
+setminus
+print A
+union
+print A
+quit

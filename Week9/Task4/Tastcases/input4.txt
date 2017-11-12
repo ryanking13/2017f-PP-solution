@@ -1,0 +1,10 @@
+add 1 into A
+add 2 into A
+print A
+delete 1 from A
+print A
+add 3 into A
+print A
+delete 2 from A
+print A
+quit

@@ -1,0 +1,385 @@
+add 0 into A
+print A
+print B
+add 1 into A
+print A
+print B
+add 2 into A
+print A
+print B
+add 3 into A
+print A
+print B
+add 4 into A
+print A
+print B
+add 5 into A
+print A
+print B
+add 6 into A
+print A
+print B
+add 7 into A
+print A
+print B
+add 8 into A
+print A
+print B
+add 9 into A
+print A
+print B
+add 10 into A
+print A
+print B
+add 11 into A
+print A
+print B
+add 12 into A
+print A
+print B
+add 13 into A
+print A
+print B
+add 14 into A
+print A
+print B
+add 15 into A
+print A
+print B
+add 16 into A
+print A
+print B
+add 17 into A
+print A
+print B
+add 18 into A
+print A
+print B
+add 19 into A
+print A
+print B
+add 20 into A
+print A
+print B
+add 21 into A
+print A
+print B
+add 22 into A
+print A
+print B
+add 23 into A
+print A
+print B
+add 24 into A
+print A
+print B
+add 25 into A
+print A
+print B
+add 26 into A
+print A
+print B
+add 27 into A
+print A
+print B
+add 28 into A
+print A
+print B
+add 29 into A
+print A
+print B
+add 30 into A
+print A
+print B
+add 31 into A
+print A
+print B
+delete 0 from A
+print A
+print B
+delete 1 from A
+print A
+print B
+delete 2 from A
+print A
+print B
+delete 3 from A
+print A
+print B
+delete 4 from A
+print A
+print B
+delete 5 from A
+print A
+print B
+delete 6 from A
+print A
+print B
+delete 7 from A
+print A
+print B
+delete 8 from A
+print A
+print B
+delete 9 from A
+print A
+print B
+delete 10 from A
+print A
+print B
+delete 11 from A
+print A
+print B
+delete 12 from A
+print A
+print B
+delete 13 from A
+print A
+print B
+delete 14 from A
+print A
+print B
+delete 15 from A
+print A
+print B
+delete 16 from A
+print A
+print B
+delete 17 from A
+print A
+print B
+delete 18 from A
+print A
+print B
+delete 19 from A
+print A
+print B
+delete 20 from A
+print A
+print B
+delete 21 from A
+print A
+print B
+delete 22 from A
+print A
+print B
+delete 23 from A
+print A
+print B
+delete 24 from A
+print A
+print B
+delete 25 from A
+print A
+print B
+delete 26 from A
+print A
+print B
+delete 27 from A
+print A
+print B
+delete 28 from A
+print A
+print B
+delete 29 from A
+print A
+print B
+delete 30 from A
+print A
+print B
+delete 31 from A
+print A
+print B
+add 0 into B
+print A
+print B
+add 1 into B
+print A
+print B
+add 2 into B
+print A
+print B
+add 3 into B
+print A
+print B
+add 4 into B
+print A
+print B
+add 5 into B
+print A
+print B
+add 6 into B
+print A
+print B
+add 7 into B
+print A
+print B
+add 8 into B
+print A
+print B
+add 9 into B
+print A
+print B
+add 10 into B
+print A
+print B
+add 11 into B
+print A
+print B
+add 12 into B
+print A
+print B
+add 13 into B
+print A
+print B
+add 14 into B
+print A
+print B
+add 15 into B
+print A
+print B
+add 16 into B
+print A
+print B
+add 17 into B
+print A
+print B
+add 18 into B
+print A
+print B
+add 19 into B
+print A
+print B
+add 20 into B
+print A
+print B
+add 21 into B
+print A
+print B
+add 22 into B
+print A
+print B
+add 23 into B
+print A
+print B
+add 24 into B
+print A
+print B
+add 25 into B
+print A
+print B
+add 26 into B
+print A
+print B
+add 27 into B
+print A
+print B
+add 28 into B
+print A
+print B
+add 29 into B
+print A
+print B
+add 30 into B
+print A
+print B
+add 31 into B
+print A
+print B
+delete 0 from B
+print A
+print B
+delete 1 from B
+print A
+print B
+delete 2 from B
+print A
+print B
+delete 3 from B
+print A
+print B
+delete 4 from B
+print A
+print B
+delete 5 from B
+print A
+print B
+delete 6 from B
+print A
+print B
+delete 7 from B
+print A
+print B
+delete 8 from B
+print A
+print B
+delete 9 from B
+print A
+print B
+delete 10 from B
+print A
+print B
+delete 11 from B
+print A
+print B
+delete 12 from B
+print A
+print B
+delete 13 from B
+print A
+print B
+delete 14 from B
+print A
+print B
+delete 15 from B
+print A
+print B
+delete 16 from B
+print A
+print B
+delete 17 from B
+print A
+print B
+delete 18 from B
+print A
+print B
+delete 19 from B
+print A
+print B
+delete 20 from B
+print A
+print B
+delete 21 from B
+print A
+print B
+delete 22 from B
+print A
+print B
+delete 23 from B
+print A
+print B
+delete 24 from B
+print A
+print B
+delete 25 from B
+print A
+print B
+delete 26 from B
+print A
+print B
+delete 27 from B
+print A
+print B
+delete 28 from B
+print A
+print B
+delete 29 from B
+print A
+print B
+delete 30 from B
+print A
+print B
+delete 31 from B
+print A
+print B
+quit

@@ -1,0 +1,39 @@
+add 0 into A
+add 1 into A
+add 2 into A
+add 3 into A
+add 4 into A
+add 5 into A
+add 6 into A
+add 7 into A
+add 8 into A
+add 9 into A
+add 10 into A
+add 11 into A
+add 12 into A
+add 13 into A
+add 14 into A
+add 15 into A
+add 16 into B
+add 17 into B
+add 18 into B
+add 19 into B
+add 20 into B
+add 21 into B
+add 22 into B
+add 23 into B
+add 24 into B
+add 25 into B
+add 26 into B
+add 27 into B
+add 28 into B
+add 29 into B
+add 30 into B
+add 31 into B
+print A
+print B
+union
+print A
+intersection
+print A
+quit

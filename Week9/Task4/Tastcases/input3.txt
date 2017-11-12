@@ -1,0 +1,13 @@
+add 1 into A
+add 2 into B
+print A
+union
+print A
+add 3 into B
+intersection
+print A
+add 1 into A
+union
+setminus
+print A
+quit

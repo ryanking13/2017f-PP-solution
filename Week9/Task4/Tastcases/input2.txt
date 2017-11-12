@@ -1,0 +1,11 @@
+add 1 into A
+add 2 into A
+print A
+delete 1 from A
+print A
+add 10 into B
+add 20 into B
+print B
+delete 30 from B
+print B
+quit

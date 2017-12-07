@@ -198,7 +198,7 @@ int main(){
 				}
 				// if it is computer's turn, AI will give a command
 				else{
-					pick = choose_command(human_cards+(4*2), computer_cards, &human, &computer);
+					pick = choose_command(human_cards+2, computer_cards, &human, &computer);
 					strcpy(command, commands[human_turn][pick]);
 					printf("%s\n", command);
 					result = call_command(&human, &computer, command);

@@ -149,11 +149,10 @@ int main(){
     	printf("| %3s %3s %3s %3s %3s | ==> [ %s ]\n", human_cards[0], human_cards[1], human_cards[2],
 									human_cards[3], human_cards[4], score_to_name[human_score]);
 		
-		/*
-		printf("\n-- COMPUTER CARDS --\n\n");
-   		printf("| %3s %3s %3s %3s %3s | ==> [ %s ]\n", computer_cards[0], computer_cards[1], computer_cards[2],
-									computer_cards[3], computer_cards[4], score_to_name[computer_score]);
-		*/
+		
+		//printf("\n-- COMPUTER CARDS --\n\n");
+   		//printf("| %3s %3s %3s %3s %3s | ==> [ %s ]\n", computer_cards[0], computer_cards[1], computer_cards[2],
+		//							computer_cards[3], computer_cards[4], score_to_name[computer_score]);
 		
 		printf("\n*********************\n\n");
 		

@@ -1,7 +1,7 @@
 #include<stdio.h>
 struct Points{
-	int x;
-	int y;
+	long long x;
+	long long y;
 };
 
 void main()
@@ -10,7 +10,7 @@ void main()
 	scanf("%d", &N);
 	struct Points point_array[N];
 	for(int i = 0; i < N; i++){
-		scanf("%d %d", &point_array[i].x, &point_array[i].y);
+		scanf("%lld %lld", &point_array[i].x, &point_array[i].y);
 	}
 	int i;
 	int j;
@@ -18,8 +18,8 @@ void main()
 	
 	for(i = 0; i < N; i++)
 	{
-		int min_distance=-1;
-		int tmp;
+		long long min_distance=-1;
+		long long tmp;
 		int  short_num = 0;
 		for(j = 0; j < N; j++)
 		{

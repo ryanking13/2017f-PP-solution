@@ -33,7 +33,7 @@ bool finding_solution(int* answer, long long a, long long b, long long c, long l
 			b * answer_ * answer_ +
 			c * answer_ +
 			d;
-		for (int i = 1; i <= 10; i++)
+		for (int i = 1; i <= 2; i++)
 		{
 			if (answer_value == 0) {
 				*answer = answer_;
